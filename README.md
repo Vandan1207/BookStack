@@ -1,8 +1,8 @@
-# RecycleBytes
+# Book Stack
 
 ---
 
-# E-Waste Collection and Recycling Platform
+# Library Management System using Goggle Library API
 
 ## Project Overview
 This project is a web application for e-waste collection and recycling. Users can exchange their e-waste for money through this platform. The project is built using HTML, CSS,Bootstrap, JavaScript, and Django.
